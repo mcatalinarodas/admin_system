@@ -1,4 +1,4 @@
-Cómo ejecutar el proyecto!!!!
+:point_right: Cómo ejecutar el proyecto!!!!
 
 Desde la raíz del proyecto C:\Users\defda\Desktop\abp-intro O LE PUEDE APARECER COMO admin_system
 
